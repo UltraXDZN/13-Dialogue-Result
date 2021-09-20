@@ -1,0 +1,10 @@
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\13DialogueResult\13DialogResult\bin\Debug\13DialogResult.exe.config
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\13DialogueResult\13DialogResult\bin\Debug\13DialogResult.exe
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\13DialogueResult\13DialogResult\bin\Debug\13DialogResult.pdb
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\13DialogueResult\13DialogResult\obj\Debug\13DialogResult.csprojAssemblyReference.cache
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\13DialogueResult\13DialogResult\obj\Debug\_13DialogResult.Form1.resources
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\13DialogueResult\13DialogResult\obj\Debug\_13DialogResult.Properties.Resources.resources
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\13DialogueResult\13DialogResult\obj\Debug\13DialogResult.csproj.GenerateResource.cache
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\13DialogueResult\13DialogResult\obj\Debug\13DialogResult.csproj.CoreCompileInputs.cache
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\13DialogueResult\13DialogResult\obj\Debug\13DialogResult.exe
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\13DialogueResult\13DialogResult\obj\Debug\13DialogResult.pdb
